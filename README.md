@@ -11,7 +11,7 @@ Mã nguồn mô phỏng kèm báo cáo cuối kỳ học phần Kỹ thuật Rob
 
 Cài thư viện: `pip install numpy scipy matplotlib`
 
-Chạy (Spyder: đặt thư mục làm việc là thư mục này, mở file và bấm F5):
+Chạy (các phần mềm có thể chạy python: đặt thư mục làm việc là thư mục này, mở file và bấm F5):
 ```
 python run_experiments.py   # ~20 s
 python diagrams.py
